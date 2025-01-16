@@ -41,27 +41,11 @@
 ---
 
 ## **🔍 Estudio de Mercado**  
-
-### **Aplicaciones Similares**  
-#### **1. Name That Flag**  
-- **Descripción:** Juego para identificar banderas mediante opciones múltiples.  
-- **Fortalezas:** Animaciones atractivas, niveles de dificultad.  
-- **Debilidades:** Diseño poco intuitivo para niños pequeños.  
-
-#### **2. Flags Quiz**  
-- **Descripción:** Aplicación que desafía a los usuarios a identificar banderas.  
-- **Fortalezas:** Gran base de datos de banderas, disponible en varios idiomas.  
-- **Debilidades:** No está adaptada para niños de edad infantil.  
-
-#### **3. Quizlet (Flashcards de Banderas)**  
-- **Descripción:** Plataforma de aprendizaje que incluye tarjetas educativas sobre banderas.  
-- **Fortalezas:** Versatilidad y utilidad.  
-- **Debilidades:** Diseño aburrido para niños pequeños.  
-
 ### **Oportunidades Detectadas**  
 - Crear una aplicación con **interfaz colorida y simple** ideal para niños pequeños.  
 - Incluir **refuerzo positivo** como sonidos y animaciones para motivar a los usuarios.  
-- Ofrecer **opciones de personalización** para que pueda adaptarse a diversas temáticas educativas.  
+- Ofrecer **opciones de personalización** para que pueda adaptarse a diversas temáticas educativas.
+- Aplicación sencilla para aprender a programar
 
 ---
 
